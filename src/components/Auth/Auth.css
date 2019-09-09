@@ -1,0 +1,9 @@
+.mid-box-lox{
+    width: 30vw;
+    height: 30vh;
+    background: yellowgreen;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center
+}
